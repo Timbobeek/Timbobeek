@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying for the GCA exam while attending BloomTech.
-- 🌱 I’m currently learning applied computer science.
+- 🌱 I’m currently learning Applied Computer Science.
 - 👯 I’m looking to collaborate on any projects involving JavaScript.
 - 🤔 I’m looking for help with algorithms and Redux.
 - 💬 Ask me about code refactoring!
