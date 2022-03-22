@@ -1,4 +1,4 @@
-### Hi Hallo! ¡Hola! Привет! Привіт!  👋
+### Hi! Hallo! ¡Hola! Привет! Привіт!  👋
 
 
 - 🔭 I’m currently studying for the GCA exam while attending BloomTech.
