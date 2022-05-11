@@ -1,8 +1,8 @@
 ### Hi! Hallo! ¡Hola! Привет! Привіт!  👋
 
 
-- 🔭 I’m currently studying for the GCA exam while attending BloomTech.
-- 🌱 I’m currently learning Applied Computer Science.
+- 🔭 I'm currently exploring career opportunities within web design/development
+- 🌱 I’m currently working on a personal project
 - 👯 I’m looking to collaborate on any projects involving JavaScript.
 - 🤔 I’m looking for help with algorithms and Redux.
 - 💬 Ask me about code refactoring and CSS!
